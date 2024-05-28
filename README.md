@@ -1,0 +1,1 @@
+This project aims to build and compare various machine learning models to predict the presence of gamma rays in cosmic rays using the MAGIC04 dataset. The MAGIC04 dataset is derived from the MAGIC (Major Atmospheric Gamma Imaging Cherenkov) telescopes and contains measurements that help differentiate between gamma rays and hadron (proton) events.
